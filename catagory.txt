@@ -1,0 +1,30 @@
+The needful things '
+
+Homepage (2 layouts)
+About Us
+Team
+Team Details (CMS)
+Project
+Project Details (CMS)
+Services
+Services details (CMS)
+Blog
+Blog Details (CMS)
+Contact Us
+404
+Password
+Style Guide
+Changelog
+Licenses
+
+
+
+HTML CSS BASIC TAG 
+
+link tag with HTML and CSS
+= <link rel="stylesheet" a href="css link" type="text/css">
+
+container basic height width and margin
+= width: 1140px;
+   padding: 0px 15px;
+   margin: auto
